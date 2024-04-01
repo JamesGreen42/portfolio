@@ -12,6 +12,14 @@
 
               
 ## Projects:
+
+Intro:
+    -    Item 1:
+    -    Item 2:
+    -    Item 3:
+    -    Item 4: 
+
+----------------------------------------------------------------------
 ### Stock Portfolio Selection Tool - Graph Based Clustering.
 
 ![Stock_Returns](assets/img/Stock_Returns_1.png)
@@ -19,6 +27,8 @@
 Used graph based clustering to create a statistical model that can identify stock portfolio's that consistently beat market returns. Optimised and applied the model to select portfolios that on average deliver 22% returns over the last 5 years (double the 11% average in the SNP500) with 1.5x increase in risk exposure. 
 
 --- Insert link to google drive file with code and template ---
+
+----------------------------------------------------------------------
 
 ### Facial Emotiion Detection - Convolutional Neural Networks
 
