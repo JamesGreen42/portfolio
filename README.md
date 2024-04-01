@@ -24,7 +24,7 @@ Used graph based clustering to create a statistical model that can identify stoc
 
 ![CNN Intro](assets/img/CNN_Intro.png)
 
-![CNN Solution](assets/img/CNN_Solution.png)
+![CNN Solution](assets/img/CNN_Solution_2.png)
 
 Used graph based clustering to create a statistical model that can identify stock portfolio's that consistently beat market returns. Optimised and applied the model to select portfolios that on average deliver 22% returns over the last 5 years (double the 11% average in the SNP500) with 1.5x increase in risk exposure. 
 
