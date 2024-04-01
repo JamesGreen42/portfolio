@@ -3,8 +3,13 @@
 #### Technical Skills: Python, R, SQL
 
 ## Education
-- Msc, Research Psychology | University of Bristol | (_2019_)					       		
-- Proffessional Education in Data Science | M.I.T | (_2024_)	 			        		
+- Professional Education in Data Science | M.I.T | (_2024_)
+    - Top 10% of all graduates.
+    - Comprehnsive course covering classic machine learning, time series analysis, deep learning & neural networks, data handling & visualisation. 
+- Msc, Research Psychology | University of Bristol | (_2019_)
+    - #1 psychology graduate in 2019.
+    - Published research on addressing smoker misperceptions towards e-cigarettes performing in top 5% of publihsed papers.     		
+ 			        		
 
 ## Projects
 ### Stock Portfolio Selection Tool - Graph Based Clustering.
