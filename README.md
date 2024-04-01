@@ -14,7 +14,7 @@
 ## Projects:
 ### Stock Portfolio Selection Tool - Graph Based Clustering.
 
---- insert image ---
+![Stock_Returns](assets/img/Stock_Returns_1.png)
 
 Used graph based clustering to create a statistical model that can identify stock portfolio's that consistently beat market returns. Optimised and applied the model to select portfolios that on average deliver 22% returns over the last 5 years (double the 11% average in the SNP500) with 1.5x increase in risk exposure. 
 
@@ -22,7 +22,9 @@ Used graph based clustering to create a statistical model that can identify stoc
 
 ### Facial Emotiion Detection - Convolutional Neural Networks
 
-![Maps 1](assets/img/Maps_1.png)
+![CNN Intro](assets/img/CNN_Intro.png)
+
+![CNN Solution](assets/img/CNN_Solution.png)
 
 Used graph based clustering to create a statistical model that can identify stock portfolio's that consistently beat market returns. Optimised and applied the model to select portfolios that on average deliver 22% returns over the last 5 years (double the 11% average in the SNP500) with 1.5x increase in risk exposure. 
 
@@ -30,7 +32,7 @@ Used graph based clustering to create a statistical model that can identify stoc
 
 ### Custom Visualisation Tool for Agricultural Farms - Dynamic Charting
 
---- insert image ---
+![Maps 2](assets/img/Maps_2.png)
 
 Used graph based clustering to create a statistical model that can identify stock portfolio's that consistently beat market returns. Optimised and applied the model to select portfolios that on average deliver 22% returns over the last 5 years (double the 11% average in the SNP500) with 1.5x increase in risk exposure. 
 
