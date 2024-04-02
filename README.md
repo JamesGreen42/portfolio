@@ -26,7 +26,7 @@ Intro:
 
 Used graph based clustering to create a statistical model that can identify stock portfolio's that consistently beat market returns. Optimised and applied the model to select portfolios that on average deliver 22% returns over the last 5 years (double the 11% average in the SNP500) with 1.5x increase in risk exposure. 
 
---- Insert link to google drive file with code and template ---
+[Full Project Documentation](https://drive.google.com/drive/folders/1rNQJKXx-CP3n1kz5Eh-thac_RIUyggRo?usp=sharing)
 
 ----------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ Used graph based clustering to create a statistical model that can identify stoc
 
 Used graph based clustering to create a statistical model that can identify stock portfolio's that consistently beat market returns. Optimised and applied the model to select portfolios that on average deliver 22% returns over the last 5 years (double the 11% average in the SNP500) with 1.5x increase in risk exposure. 
 
---- Insert link to google drive file with code and template ---
+[Full Project Documentation](https://drive.google.com/drive/folders/1uh3j2XITl3BE34-Xk1M_EidFhqzd2Fsw?usp=sharing)
 
 ----------------------------------------------------------------------
 
@@ -46,7 +46,8 @@ Used graph based clustering to create a statistical model that can identify stoc
 
 Used graph based clustering to create a statistical model that can identify stock portfolio's that consistently beat market returns. Optimised and applied the model to select portfolios that on average deliver 22% returns over the last 5 years (double the 11% average in the SNP500) with 1.5x increase in risk exposure. 
 
---- Insert link to google drive file with code and template ---
+[Full Project Documentation](https://drive.google.com/drive/folders/1UTPE3cgrmZYZcGt21sS9MjdulsPND-Jf?usp=sharing)
+
 
 ----------------------------------------------------------------------
 
