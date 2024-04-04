@@ -60,7 +60,10 @@ improvements reflects a forward-thinking approach. Well done!"
 
 ![Maps 2](assets/img/Maps_2.png)
 
-Used graph based clustering to create a statistical model that can identify stock portfolio's that consistently beat market returns. Optimised and applied the model to select portfolios that on average deliver 22% returns over the last 5 years (double the 11% average in the SNP500) with 1.5x increase in risk exposure. 
+   - Takes co-ordinate data to create custom maps in plotly that can then be used for visualising geographic data.
+   - Interactive tool that can be saved and exported for use by less technically confident employees.
+   - Real life implimentation in agriculture for visualsing field level data on farms. 
+   - Replicateable code template that can be easily repurposed for other farms. 
 
 [Full Project Documentation](https://drive.google.com/drive/folders/1UTPE3cgrmZYZcGt21sS9MjdulsPND-Jf?usp=sharing)
 
@@ -68,5 +71,10 @@ Used graph based clustering to create a statistical model that can identify stoc
 ----------------------------------------------------------------------
 
 ## Work:
-**Kantar**
-- relevent data science work
+
+**Kantar - Research Manager:**
+
+In my current role I'm often working with data and have implimented technical skills and knowledge where relevent to save time, or build new, scaleable products for clients. 
+   - Designed, sold and scaled an analysis tool to solve real client needs on understanding drivers of consumer value perceptions with  global implimentation.
+   - Creating and using code templates to speed up workflows and increase interpretability of the data, in complex client work. 
+   - Build and used code templates create efficneiy in reccuring tasks, reducing a time spent from 1 day per week to 30 minutes. 
