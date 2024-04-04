@@ -1,7 +1,7 @@
 # Data Science Portfolio:
 
 #### Technical Skills: Python, R, SQL.
-#### Soft Skills: Project Management, Client Management, Sales. 
+#### Soft Skills: Project Management, Client Management, Sales, Leadership & Mentoring. 
 
 ## Education:
 - **Professional Education in Data Science** | M.I.T | (_2024_)
