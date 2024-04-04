@@ -13,20 +13,25 @@
               
 ## Projects:
 
-Intro: A brief summary of portfolio porjects completed. The goal of each of these porjects was to solve real world problems, beyond just demonstrating technical understanding of each technique. Each project will contain a like to the a file with the full analysis and where relevent replicable code templates. 
+This section details a brief summary of all portfolio porjects completed. 
+
+The goal of each of these porjects was to solve real world problems, beyond just demonstrating technical understanding of each technique. Each project will contain a link to the a file with the full analysis, and where relevent, replicable code templates.
 
 A summary of all projects can be seen below:
 
-    -    Stock Portfolio Analysis using Graph based cluserting - 172% returns vs SNP500. 
-    -    Emotion Dection using Convolutional Neural Networks - 87% classification accuracy.
-    -    Custom Geographical Data Visulation for Agricultural farms - real world implimentation. 
+-    Stock Portfolio Analysis using Graph based cluserting - 172% returns vs SNP500. 
+-    Emotion Dection using Convolutional Neural Networks - 87% classification accuracy.
+-    Custom Geographical Data Visulation for Agricultural farms - real world implimentation. 
 
 ----------------------------------------------------------------------
 ### Stock Portfolio Selection Tool - Graph Based Clustering.
 
 ![Stock_Returns](assets/img/Stock_Returns_1.png)
 
-Used graph based clustering to create a statistical model that can identify stock portfolio's that consistently beat market returns. Optimised and applied the model to select portfolios that on average deliver 22% returns over the last 5 years (double the 11% average in the SNP500) with 1.5x increase in risk exposure. 
+- Graph based clustering based on daily stock returns selected an optimal stock portfolio selection tool.
+- Hyperparamater tuning dramatically improved model performance from marginal gains over the market to consistenly outperforming the market. 
+- 172% better returns than SNP500 over last 6 years. 
+- 1.5x increase in risk - small vs other models. 
 
 [Full Project Documentation](https://drive.google.com/drive/folders/1rNQJKXx-CP3n1kz5Eh-thac_RIUyggRo?usp=sharing)
 
