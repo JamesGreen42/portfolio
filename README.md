@@ -1,35 +1,38 @@
-# Aspiring Data Scientist
+# Data Science Portfolio:
 
-#### Technical Skills: Python, R, SQL
+#### Technical Skills: Python, R, SQL.
+#### Soft Skills: Project Management, Client Management, Sales. 
 
 ## Education:
 - **Professional Education in Data Science** | M.I.T | (_2024_)
     - Top 10% of all graduates.
-    - Comprehnsive course covering classic machine learning, time series analysis, deep learning & neural networks, data handling & visualisation. 
+    - Comprehensive course covering machine learning, time series analysis, deep learning & neural networks, data handling & visualisation. 
 - **Msc, Research Psychology** | University of Bristol | (_2019_)
-    - #1 psychology graduate in 2019.
-    - Published research on addressing smoker misperceptions towards e-cigarettes performing in top 5% of publihsed papers.     		
-
+    - Awarded as the top psychology graduate of 2019.
+    - Training in advanced statistics and data analysis.
+    - Published research on [Tackling Smoker Misperceptions Towards E-Cigarettes Using Expert Videos](https://doi.org/10.1093/ntr/ntab104) performing in the top 5% of published papers.
+    		
               
 ## Projects:
 
-The goal of each of these porjects was to solve real world problems, beyond just demonstrating technical understanding of each technique. Each project will contain a link to the a file with the full analysis, and where relevent, replicable code templates.
+Beyond demonstrating a technical understanding of each technique, a key goal of each of these projects was to solve real work problems. Each project will contain a link to the file with the full analysis, and where relevant, replicable code templates.
 
 A summary of all projects can be seen below:
 
--    Stock Portfolio Analysis using Graph Based Cluserting - 172% returns vs SNP500. 
--    Emotion Dection using Convolutional Neural Networks - 87% classification accuracy.
--    Custom Geographical Data Visulation for Agricultural farms - real world implimentation. 
+-    Stock Portfolio Analysis using Graph-Based Clustering - 172% returns vs SNP500. 
+-    Emotion Detection using Convolutional Neural Networks - 87% classification accuracy.
+-    Custom Geographical Data Visualisation for Agricultural Farms - real-world implementation.
+
 
 ----------------------------------------------------------------------
 ### Stock Portfolio Selection Tool - Graph Based Clustering.
 
 ![Stock_Returns](assets/img/Stock_Returns_1.png)
 
-   - Graph based clustering based on daily stock returns used to create an optimal stock portfolio selection tool.
-   - Hyperparamater tuning dramatically improved model performance from marginal gains over the market to consistenly outperforming the market. 
-   - 172% better returns than SNP500 over last 6 years. 
-   - 1.5x increase in risk - small vs other models. 
+   - Graph-based clustering based on daily stock returns is used to create an optimal stock portfolio selection tool.
+   - Hyperparameter tuning dramatically improved model performance from marginal gains over the market to consistently outperforming the market. 
+   - 172% better returns than SNP500 over the last 6 years. 
+   - 1.5x increase in risk - small vs other models.
 
 [Full Project Documentation](https://drive.google.com/drive/folders/1rNQJKXx-CP3n1kz5Eh-thac_RIUyggRo?usp=sharing)
 
@@ -39,16 +42,16 @@ A summary of all projects can be seen below:
 
 ![CNN Solution](assets/img/CNN_Solution_2.png)
 
-   - Use Convolutional Neural Networks to classify human emotinos based on images of their faces.
+   - Used Convolutional Neural Networks to classify human emotions based on images of faces.
    - 87% Classification accuracy with 97% accuracy on surprised faces, and 93% accuracy on happy faces.
-   - Custom model outperfoming transfer learning models such as RESNET in both performance and compute efficiency. 
-   - Final Assesment in my M.I.T course recieving full marks. 
+   - Custom model outperforming established transfer learning models such as RESNET in both classification accuracy and compute efficiency. 
+   - Received full marks as my final assesment in my M.I.T course. 
 
 **Feedback from assessor:**
 "Congratulations on a well-structured and insightful analysis! Your exploration of various neural
 network models, emphasis on market trends, and strategic recommendations showcase a robust
 understanding of the subject. The incorporation of real-world considerations and future
-improvements reflects a forward-thinking approach. Well done!Congratulations on a well-structured and insightful analysis! Your exploration of various neural network models, emphasis on market trends, and strategic recommendations showcase a robust
+improvements reflects a forward-thinking approach. Well done! Congratulations on a well-structured and insightful analysis! Your exploration of various neural network models, emphasis on market trends, and strategic recommendations showcase a robust
 understanding of the subject. The incorporation of real-world considerations and future
 improvements reflects a forward-thinking approach. Well done!"
 
@@ -60,10 +63,10 @@ improvements reflects a forward-thinking approach. Well done!"
 
 ![Maps 2](assets/img/Maps_2.png)
 
-   - Takes co-ordinate data to create custom maps in plotly that can then be used for visualising geographic data.
+   - Takes coordinate data to create custom maps in plotly that can then be used for visualising geographic data.
    - Interactive tool that can be saved and exported for use by less technically confident employees.
-   - Real life implimentation in agriculture for visualsing field level data on farms. 
-   - Replicateable code template that can be easily repurposed for other farms. 
+   - Real-world implementation in agriculture for visualising field-level data on farms. 
+   - Replicable code template that can be easily repurposed for other farms.
 
 [Full Project Documentation](https://drive.google.com/drive/folders/1UTPE3cgrmZYZcGt21sS9MjdulsPND-Jf?usp=sharing)
 
@@ -74,7 +77,7 @@ improvements reflects a forward-thinking approach. Well done!"
 
 **Kantar - Research Manager:**
 
-In my current role I'm often working with data and have implimented technical skills and knowledge where relevent to save time, or build new, scaleable products for clients. 
-   - Designed, sold and scaled an analysis tool to solve real client needs on understanding drivers of consumer value perceptions with  global implimentation.
-   - Creating and using code templates to speed up workflows and increase interpretability of the data, in complex client work. 
-   - Build and used code templates create efficneiy in reccuring tasks, reducing a time spent from 1 day per week to 30 minutes. 
+In my current role, I often work with data and have implemented my technical skills and knowledge where relevant to save time or build new, scalable products for clients. 
+   - Designed, sold, and scaled an analysis tool to solve real client questions on understanding drivers of consumer value perceptions with global implementation and incremental revenue gains.
+   - Creating and using code templates to speed up workflows and increase interpretability of the data in complex client work allowing the team to answer more complex client questions and build better client relationships. 
+   - Build and use code templates to create efficiency in recurring project tasks, reducing the time spent from 1 day per week to 30 minutes.
