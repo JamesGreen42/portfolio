@@ -13,11 +13,13 @@
               
 ## Projects:
 
-Intro:
-    -    Item 1:
-    -    Item 2:
-    -    Item 3:
-    -    Item 4: 
+Intro: A brief summary of portfolio porjects completed. The goal of each of these porjects was to solve real world problems, beyond just demonstrating technical understanding of each technique. Each project will contain a like to the a file with the full analysis and where relevent replicable code templates. 
+
+A summary of all projects can be seen below:
+
+    -    Stock Portfolio Analysis using Graph based cluserting - 172% returns vs SNP500. 
+    -    Emotion Dection using Convolutional Neural Networks - 87% classification accuracy.
+    -    Custom Geographical Data Visulation for Agricultural farms - real world implimentation. 
 
 ----------------------------------------------------------------------
 ### Stock Portfolio Selection Tool - Graph Based Clustering.
