@@ -31,7 +31,7 @@ A summary of all projects can be seen below:
 
    - Graph-based clustering based on daily stock returns is used to create an optimal stock portfolio selection tool.
    - Hyperparameter tuning dramatically improved model performance from marginal gains over the market to consistently outperforming the market. 
-   - 172% better returns than SNP500 over the last 6 years. 
+   - 172% better returns than SNP500 over the last 6 years.
    - 1.5x increase in risk - small vs other models.
 
 [Full Project Documentation](https://drive.google.com/drive/folders/1rNQJKXx-CP3n1kz5Eh-thac_RIUyggRo?usp=sharing)
